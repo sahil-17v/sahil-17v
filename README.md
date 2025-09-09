@@ -41,7 +41,7 @@
 <p align="left">
 <a href="https://twitter.com/sahil-17v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_arpitsharma__" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sahil-17v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arpitsharma6074" height="30" width="40" /></a>
-<a href="https://medium.com/@sahil-17v" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arpitsharma6074" height="30" width="40" /></a>
+<a href="https://medium.com/@sverma0717" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@arpitsharma6074" height="30" width="40" /></a>
 
 </p>
 
