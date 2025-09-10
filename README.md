@@ -6,34 +6,9 @@
 <!--
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arpitsharma6074&label=Profile%20views&color=0e75b6&style=flat" alt="arpitsharma6074" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arpitsharma6074" alt="arpitsharma6074" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/_arpitsharma__" target="blank"><img src="https://img.shields.io/twitter/follow/_arpitsharma__?logo=twitter&style=for-the-badge" alt="_arpitsharma__" /></a> </p>
 -->
-<!-- <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" /> -->
 
-<!--
 
-<h3 align="left">A passionate developer from India.</h3>
-
-- 👨‍💻 To know more about me visit [https://arpitsharma.vercel.app/](https://arpitsharma.vercel.app/)
-
-- 📝 I write articles on [https://medium.com/@arpitsharma6074](https://medium.com/@arpitsharma6074)
-
-- 📫 How to reach me **arpitsharma06074@gmail.com**
-
-- 📄 Know more about my professional journey [https://arpitsharma.vercel.app/static/media/Arpit_sharma_resume.a6a1e7d1378ad678a6f3.pdf](https://arpitsharma.vercel.app/static/media/Arpit_sharma_resume.a6a1e7d1378ad678a6f3.pdf)
-  
--->
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
-
-<!--
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-
-<!-- BLOG-POST-LIST:END -->
 
 
 
