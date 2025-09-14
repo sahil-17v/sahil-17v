@@ -81,7 +81,7 @@
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 <br/>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-17v&show_icons=true&locale=en&layout=compact" alt="sahil-17v" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahil-17v&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="sahil-17v" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sahil-17v&show_icons=true&locale=en" alt="sahil-17v" /></p>
 
