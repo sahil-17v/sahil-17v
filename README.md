@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sahil Verma</h1>
-<h3 align="center">Aspiring Software Engineer | 🎓 B.Tech - Information Technology @G.L. Bajaj, Noida</h3>
+<h3 align="center">Aspiring Software Engineer | 🎓 B.Tech - Information Technology @G.L. Bajaj, Greater Noida</h3>
 <h3> About me</h3>
 
 <hr>
